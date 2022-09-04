@@ -1,2 +1,2 @@
-# SPheap
-Implementation of SPheap using C++
+# SPHeap
+Implementation of SPHeap using C++
