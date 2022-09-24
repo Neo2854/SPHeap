@@ -3,3 +3,10 @@ Implementation of SPHeap using C++. The implementation is based on the paper fou
 
 # How to run
 Use the makefile to generate necessary object files. The synthetic-request file shows how to use spheap in a program and also tests the fragmentation of spheap by making random requests.
+
+Example of generating an object file
+```bash
+make mem_dll.o
+make spheap.o
+make synthetic_req.out
+```
